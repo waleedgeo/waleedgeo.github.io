@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mirza Waleed</title>
+    <link>https://giswaleed.github.io/</link>
+    <description>Recent content on Mirza Waleed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Aug 2022 17:37:07 +0500</lastBuildDate><atom:link href="https://giswaleed.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 Confusion Matrix Vis</title>
+      <link>https://giswaleed.github.io/blogs/confusion-matrix-vis-01.html</link>
+      <pubDate>Tue, 16 Aug 2022 17:37:07 +0500</pubDate>
+      
+      <guid>https://giswaleed.github.io/blogs/confusion-matrix-vis-01.html</guid>
+      <description>Under Progress&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>Flood Mapping using Earth Observation</title>
+      <link>https://giswaleed.github.io/projects/flood-mapping-01.html</link>
+      <pubDate>Tue, 16 Aug 2022 17:36:10 +0500</pubDate>
+      
+      <guid>https://giswaleed.github.io/projects/flood-mapping-01.html</guid>
+      <description>Under Progress&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://giswaleed.github.io/about.html</link>
+      <pubDate>Tue, 16 Aug 2022 17:34:32 +0500</pubDate>
+      
+      <guid>https://giswaleed.github.io/about.html</guid>
+      <description>Mirza Waleed 🙂 PhD student in Geography at the Department of Geography, Hong Kong Baptist University, Hong Kong (SAR). My research interest includes: Geographic Information Science (GIS), Remote Sensing, and Environmental Modeling. More specifically, I am interested in applying geospatial techniques, machine learning, and cloud computing (e.g., Google Earth Engine) in Hazards-Risk assessment, Environmental Change Monitoring, Floods Mapping &amp;amp; Automation, Land-use science, UTFVI (Urban Heat Island effect), and climate change.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://giswaleed.github.io/publications.html</link>
+      <pubDate>Tue, 16 Aug 2022 17:32:00 +0500</pubDate>
+      
+      <guid>https://giswaleed.github.io/publications.html</guid>
+      <description>Current Working Papers Earth observation for Flood Risk Assessment (Ongoing - 2022)
+Multi-Temporal Resilience Evaluation in Pakistan (Ongoing - 2022)
+Warming Cities in Pakistan: Evaluating Spatial-temporal Dynamics of Urban Thermal Field Variance Index under Rapid Urbanization (Ongoing - 2022)
+Submitted Papers Exploring and Predicting Thermal Field Variance in Response to Urban Growth: A Geo-information Modelling-based Spatial-temporal Assessment in the Context of Sustainable and Livable Cities (Submitted as First Author, 2022 - Egyptian Journal of Remote Sensing &amp;amp; Space Science)</description>
+    </item>
+    
+  </channel>
+</rss>
