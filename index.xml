@@ -5,7 +5,17 @@
     <link>https://giswaleed.github.io/</link>
     <description>Recent content on Mirza Waleed</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://giswaleed.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Aug 2022 14:47:42 +0500</lastBuildDate><atom:link href="https://giswaleed.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog_02_hugowebsite</title>
+      <link>https://giswaleed.github.io/blogs/blog_02_hugowebsite.html</link>
+      <pubDate>Thu, 18 Aug 2022 14:47:42 +0500</pubDate>
+      
+      <guid>https://giswaleed.github.io/blogs/blog_02_hugowebsite.html</guid>
+      <description>Under progress&amp;hellip; </description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://giswaleed.github.io/about.html</link>
@@ -17,11 +27,11 @@
     
     <item>
       <title></title>
-      <link>https://giswaleed.github.io/blogs.html</link>
+      <link>https://giswaleed.github.io/blogs/blog_01_confusionvis.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://giswaleed.github.io/blogs.html</guid>
-      <description>index </description>
+      <guid>https://giswaleed.github.io/blogs/blog_01_confusionvis.html</guid>
+      <description>index blog 1 </description>
     </item>
     
     <item>
