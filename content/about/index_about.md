@@ -1,15 +1,3 @@
----
-title: "About2"
-date: 2022-08-18T14:46:37+05:00
-draft: false
----
-
----
-title: "About"
-date: 2022-08-16T17:34:32+05:00
-draft: false
----
-
 # Mirza Waleed 🙂
 
 ### PhD student in Geography at the [Department of Geography](https://geog.hkbu.edu.hk/), [Hong Kong Baptist University](https://www.hkbu.edu.hk/), Hong Kong (SAR).
