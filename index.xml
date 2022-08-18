@@ -5,63 +5,41 @@
     <link>https://giswaleed.github.io/</link>
     <description>Recent content on Mirza Waleed</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 18 Aug 2022 14:49:18 +0500</lastBuildDate><atom:link href="https://giswaleed.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://giswaleed.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Proj_02_UTFVI</title>
-      <link>https://giswaleed.github.io/projects/proj_02_utfvi.html</link>
-      <pubDate>Thu, 18 Aug 2022 14:49:18 +0500</pubDate>
+      <title></title>
+      <link>https://giswaleed.github.io/about.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://giswaleed.github.io/projects/proj_02_utfvi.html</guid>
-      <description>Under Progress </description>
+      <guid>https://giswaleed.github.io/about.html</guid>
+      <description>index </description>
     </item>
     
     <item>
-      <title>Blog_02_hugowebsite</title>
-      <link>https://giswaleed.github.io/blogs/blog_02_hugowebsite.html</link>
-      <pubDate>Thu, 18 Aug 2022 14:47:42 +0500</pubDate>
+      <title></title>
+      <link>https://giswaleed.github.io/blogs.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://giswaleed.github.io/blogs/blog_02_hugowebsite.html</guid>
-      <description>Under progress&amp;hellip; </description>
+      <guid>https://giswaleed.github.io/blogs.html</guid>
+      <description>index </description>
     </item>
     
     <item>
-      <title>About2</title>
-      <link>https://giswaleed.github.io/about/about2.html</link>
-      <pubDate>Thu, 18 Aug 2022 14:46:37 +0500</pubDate>
+      <title></title>
+      <link>https://giswaleed.github.io/projects.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://giswaleed.github.io/about/about2.html</guid>
-      <description>title: &amp;ldquo;About&amp;rdquo; date: 2022-08-16T17:34:32+05:00 draft: false Mirza Waleed 🙂 PhD student in Geography at the Department of Geography, Hong Kong Baptist University, Hong Kong (SAR). My research interest includes: Geographic Information Science (GIS), Remote Sensing, and Environmental Modeling. More specifically, I am interested in applying geospatial techniques, machine learning, and cloud computing (e.g., Google Earth Engine) in Hazards-Risk assessment, Environmental Change Monitoring, Floods Mapping &amp;amp; Automation, Land-use science, UTFVI (Urban Heat Island effect), and climate change.</description>
+      <guid>https://giswaleed.github.io/projects.html</guid>
+      <description>index </description>
     </item>
     
     <item>
-      <title>01 Confusion Matrix Vis</title>
-      <link>https://giswaleed.github.io/blogs/confusion-matrix-vis-01.html</link>
-      <pubDate>Tue, 16 Aug 2022 17:37:07 +0500</pubDate>
+      <title></title>
+      <link>https://giswaleed.github.io/publications.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://giswaleed.github.io/blogs/confusion-matrix-vis-01.html</guid>
-      <description>Under Progress&amp;hellip; </description>
-    </item>
-    
-    <item>
-      <title>Flood Mapping using Earth Observation</title>
-      <link>https://giswaleed.github.io/projects/flood-mapping-01.html</link>
-      <pubDate>Tue, 16 Aug 2022 17:36:10 +0500</pubDate>
-      
-      <guid>https://giswaleed.github.io/projects/flood-mapping-01.html</guid>
-      <description>Under Progress&amp;hellip; </description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://giswaleed.github.io/publications/publications_index.html</link>
-      <pubDate>Tue, 16 Aug 2022 17:32:00 +0500</pubDate>
-      
-      <guid>https://giswaleed.github.io/publications/publications_index.html</guid>
-      <description>Current Working Papers Earth observation for Flood Risk Assessment (Ongoing - 2022)
-Multi-Temporal Resilience Evaluation in Pakistan (Ongoing - 2022)
-Warming Cities in Pakistan: Evaluating Spatial-temporal Dynamics of Urban Thermal Field Variance Index under Rapid Urbanization (Ongoing - 2022)
-Submitted Papers Exploring and Predicting Thermal Field Variance in Response to Urban Growth: A Geo-information Modelling-based Spatial-temporal Assessment in the Context of Sustainable and Livable Cities (Submitted as First Author, 2022 - Egyptian Journal of Remote Sensing &amp;amp; Space Science)</description>
+      <guid>https://giswaleed.github.io/publications.html</guid>
+      <description>index </description>
     </item>
     
   </channel>
