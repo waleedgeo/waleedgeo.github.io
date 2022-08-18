@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on Mirza Waleed</title>
+    <link>https://giswaleed.github.io/about.html</link>
+    <description>Recent content in Abouts on Mirza Waleed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Aug 2022 14:46:37 +0500</lastBuildDate><atom:link href="https://giswaleed.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About2</title>
+      <link>https://giswaleed.github.io/about/about2.html</link>
+      <pubDate>Thu, 18 Aug 2022 14:46:37 +0500</pubDate>
+      
+      <guid>https://giswaleed.github.io/about/about2.html</guid>
+      <description>title: &amp;ldquo;About&amp;rdquo; date: 2022-08-16T17:34:32+05:00 draft: false Mirza Waleed 🙂 PhD student in Geography at the Department of Geography, Hong Kong Baptist University, Hong Kong (SAR). My research interest includes: Geographic Information Science (GIS), Remote Sensing, and Environmental Modeling. More specifically, I am interested in applying geospatial techniques, machine learning, and cloud computing (e.g., Google Earth Engine) in Hazards-Risk assessment, Environmental Change Monitoring, Floods Mapping &amp;amp; Automation, Land-use science, UTFVI (Urban Heat Island effect), and climate change.</description>
+    </item>
+    
+  </channel>
+</rss>

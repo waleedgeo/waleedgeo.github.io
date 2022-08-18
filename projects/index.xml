@@ -6,7 +6,16 @@
     <description>Recent content in Projects on Mirza Waleed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Aug 2022 17:36:10 +0500</lastBuildDate><atom:link href="https://giswaleed.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Aug 2022 14:49:18 +0500</lastBuildDate><atom:link href="https://giswaleed.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proj_02_UTFVI</title>
+      <link>https://giswaleed.github.io/projects/proj_02_utfvi.html</link>
+      <pubDate>Thu, 18 Aug 2022 14:49:18 +0500</pubDate>
+      
+      <guid>https://giswaleed.github.io/projects/proj_02_utfvi.html</guid>
+      <description>Under Progress </description>
+    </item>
+    
     <item>
       <title>Flood Mapping using Earth Observation</title>
       <link>https://giswaleed.github.io/projects/flood-mapping-01.html</link>

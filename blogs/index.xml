@@ -6,7 +6,16 @@
     <description>Recent content in Blogs on Mirza Waleed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Aug 2022 17:37:07 +0500</lastBuildDate><atom:link href="https://giswaleed.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Aug 2022 14:47:42 +0500</lastBuildDate><atom:link href="https://giswaleed.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog_02_hugowebsite</title>
+      <link>https://giswaleed.github.io/blogs/blog_02_hugowebsite.html</link>
+      <pubDate>Thu, 18 Aug 2022 14:47:42 +0500</pubDate>
+      
+      <guid>https://giswaleed.github.io/blogs/blog_02_hugowebsite.html</guid>
+      <description>Under progress&amp;hellip; </description>
+    </item>
+    
     <item>
       <title>01 Confusion Matrix Vis</title>
       <link>https://giswaleed.github.io/blogs/confusion-matrix-vis-01.html</link>
