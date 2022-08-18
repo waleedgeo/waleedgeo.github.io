@@ -6,7 +6,7 @@ draft: false
 
 # Mirza Waleed 🙂
 
-#### _PhD student in Geography at the [Department of Geography](https://geog.hkbu.edu.hk/), [Hong Kong Baptist University](https://www.hkbu.edu.hk/), Hong Kong (SAR)._
+### PhD student in Geography at the [Department of Geography](https://geog.hkbu.edu.hk/), [Hong Kong Baptist University](https://www.hkbu.edu.hk/), Hong Kong (SAR).
 
 My research interest includes: Geographic Information Science (GIS), Remote Sensing, and Environmental Modeling. More specifically, I am interested in applying geospatial techniques, machine learning, and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) in Hazards-Risk assessment, Environmental Change Monitoring, Floods Mapping & Automation, Land-use science, UTFVI (Urban Heat Island effect), and climate change.
 
