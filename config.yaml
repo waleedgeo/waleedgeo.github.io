@@ -1,3 +1,152 @@
-baseURL: http://example.org/
 languageCode: en-us
-title: My New Hugo Site
+baseURL: "https://giswaleed.github.io/"
+title: Mirza Waleed
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+canonifyURLs: false #// it takes relative URLs
+RelativeURLs: true # if base url is root then  canonifyUrl not work (so false)
+uglyURLs: true
+#googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Mirza Waleed
+  description: "I am Waleed, a PhD Student at Department fo Geography, Hong Baptist University!"
+  keywords: [Remote Sensing, Portfolio, Blog, Geospatial Science, Google Earth Engine]
+  author: Mirza Waleed
+  # author: ["Me", "You"] # multiple authors
+  #images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "02-January-2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  label:
+    text: "Home" # this is main title
+    icon: "images/img2.png"
+    iconHeight: 30
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "[Mirza Waleed](mailto:mirzawaleed197@gmail.com)"
+    subtitle: "Doctoral Researcher👨‍🔬🎓| Geography🌍| Remote Sensing🛰️|
+| Hazard-Risk Analysis🌊| Google Earth Engine💻| Climate Change🌡️| Land-use🌆"
+    imageUrl: "images/img1.jpg"
+    imageWidth: 240
+    imageHeight: 240
+    imageTitle: "Waleed"
+    buttons:
+      - name: About
+        url: about
+      - name: CV
+        url: https://1drv.ms/w/s!AlWsuPKVsjN0ijh5ibfWO9XxrZ9f?e=jkpoOq
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Welcome! \U0001F44B"
+    Content: "I am **Waleed**, a PhD student at the 
+    [Department of Grography](https://geog.hkbu.edu.hk/), [Hong Hong Baptist University](https://www.hkbu.edu.hk/)."
+
+  socialIcons:
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=mx4VhG4AAAAJ&hl=en"
+    - name: linkedIn
+      url: "https://www.linkedin.com/in/mirzawaleed197/"
+    - name: researchgate
+      url: "https://www.researchgate.net/profile/Mirza-Waleed"
+    - name: twitter
+      url: "https://twitter.com/MirzaWaleed197"
+    - name: github
+      url: "https://github.com/waleed-gis"
+    - name: facebook
+      url: "https://www.facebook.com/WaleedGIS"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+
+  editPost:
+#    URL: "https://github.com/chanin-www/content"
+#    Text: "Suggest Changes" # edit text
+    URL: ""
+    Text: "" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 4
+    - identifier: blogs
+      name: Blogs
+      url: /blogs/
+      weight: 3
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 2
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 1
+    #- identifier: tags
+    #  name: tags
+    #  url: /tags/
+    #  weight: 4
+
+    #- identifier: example
+    #  name: example.org
+    #  url: https://example.org
+    #  weight: 30
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
