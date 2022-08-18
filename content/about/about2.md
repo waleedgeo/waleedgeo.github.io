@@ -1,4 +1,10 @@
 ---
+title: "About2"
+date: 2022-08-18T14:46:37+05:00
+draft: false
+---
+
+---
 title: "About"
 date: 2022-08-16T17:34:32+05:00
 draft: false
