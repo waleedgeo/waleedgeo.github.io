@@ -1,6 +1,6 @@
 # Mirza Waleed 🙂
 
-### PhD student in Geography at the [Department of Geography](https://geog.hkbu.edu.hk/), [Hong Kong Baptist University](https://www.hkbu.edu.hk/), Hong Kong (SAR).
+**PhD student (Geography) at the [Department of Geography](https://geog.hkbu.edu.hk/), [Hong Kong Baptist University](https://www.hkbu.edu.hk/), Hong Kong (SAR).**
 
 My research interest includes: Geographic Information Science (GIS), Remote Sensing, and Environmental Modeling. More specifically, I am interested in applying geospatial techniques, machine learning, and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) in Hazards-Risk assessment, Environmental Change Monitoring, Floods Mapping & Automation, Land-use science, UTFVI (Urban Heat Island effect), and climate change.
 
@@ -10,10 +10,13 @@ Besides, I'm a (5 star rated & Level-1) freelancer at [Fiver](https://www.fiverr
 
 My current focus is towards regional to global scale studies addressing flood risk assessment using earth observation data/techniques. For this I am working as well as open to any collaboration opportunity.
 
-#### Favourite Quote:
-```
-Tell me and I forget. Teach me and I remember. Involve me and I learn. -Benjamin Franklin
-```
+### My CV
+
+[Please click here to see my latest Curriculum Vitae (CV)](https://docs.google.com/document/d/11xg5_uy1MNiOtRSeMdDy5QY8mWT3HqhB/edit?usp=sharing&ouid=116016177760658394202&rtpof=true&sd=true)
+
+### Favourite Quote:
+
+**_"Tell me and I forget. Teach me and I remember. Involve me and I learn."_** Benjamin Franklin
 
 ### My Tools
 
@@ -40,9 +43,13 @@ Tell me and I forget. Teach me and I remember. Involve me and I learn. -Benjamin
 ---
 
 ### Contact me:
-- [**Fiverr**](https://www.fiverr.com/waleed_gis) (For Commissioned Work💵)
-- [**LinkedIn**](https://www.linkedin.com/in/mirzawaleed197) (For Research Discission🧑‍🔬)
-- [**Gmail**](mailto:mirzawaleed197@gmail.com) (For Research Collaboration✍🏻)
+
+- [**Email**](mailto:waleedgeo@outlook.com) (Recommended✍🏻)
+
+- [**Fiverr**](https://www.fiverr.com/waleed_gis) (Only Commissioned Work💵)
+
+- [**LinkedIn**](https://www.linkedin.com/in/mirzawaleed197) 🧑‍🔬
+
 
 ---
 
