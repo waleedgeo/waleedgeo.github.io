@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on Mirza Waleed</title>
-    <link>https://giswaleed.github.io/blogs.html</link>
+    <link>https://waleedgeo.github.io/blogs.html</link>
     <description>Recent content in Blogs on Mirza Waleed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Aug 2022 14:47:42 +0500</lastBuildDate><atom:link href="https://giswaleed.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Aug 2022 14:47:42 +0500</lastBuildDate><atom:link href="https://waleedgeo.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog-1: Confusion Matrix Visualization</title>
-      <link>https://giswaleed.github.io/blogs/blog_01_confusionvis.html</link>
+      <title>Academic Website using Github &amp; Hugo</title>
+      <link>https://waleedgeo.github.io/blogs/blog_01_academic_website.html</link>
       <pubDate>Thu, 18 Aug 2022 14:47:42 +0500</pubDate>
       
-      <guid>https://giswaleed.github.io/blogs/blog_01_confusionvis.html</guid>
-      <description>Under Progress&amp;hellip; </description>
+      <guid>https://waleedgeo.github.io/blogs/blog_01_academic_website.html</guid>
+      <description></description>
     </item>
     
   </channel>
