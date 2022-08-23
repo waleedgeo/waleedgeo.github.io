@@ -1,5 +1,5 @@
 languageCode: en-us
-baseURL: "https://giswaleed.github.io/"
+baseURL: "https://waleedgeo.github.io/"
 title: Mirza Waleed
 paginate: 5
 theme: PaperMod
@@ -50,8 +50,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "[Mirza Waleed](mailto:mirzawaleed197@gmail.com)"
-    subtitle: "Doctoral Researcher👨‍🔬🎓| Geography🌍| Remote Sensing🛰️|
+    title: "[Mirza Waleed](mailto:waleedgeo@outlook.com)"
+    subtitle: "PhD Student👨‍🔬🎓| Geography🌍| Remote Sensing🛰️|
 | Hazard-Risk Analysis🌊| Google Earth Engine💻| Climate Change🌡️| Land-use🌆"
     imageUrl: "images/img1.jpg"
     imageWidth: 240
@@ -73,15 +73,15 @@ params:
     - name: googlescholar
       url: "https://scholar.google.com/citations?user=mx4VhG4AAAAJ&hl=en"
     - name: linkedIn
-      url: "https://www.linkedin.com/in/mirzawaleed197/"
+      url: "https://www.linkedin.com/in/waleedgeo/"
     - name: researchgate
       url: "https://www.researchgate.net/profile/Mirza-Waleed"
     - name: twitter
-      url: "https://twitter.com/MirzaWaleed197"
+      url: "https://twitter.com/mwaleedgeo"
     - name: github
-      url: "https://github.com/waleed-gis"
+      url: "https://github.com/waleedgeo"
     - name: facebook
-      url: "https://www.facebook.com/WaleedGIS"
+      url: "https://www.facebook.com/waleedgeo"
 
   analytics:
     google:

@@ -53,3 +53,23 @@ My current focus is towards regional to global scale studies addressing flood ri
 
 ---
 
+### My all social handlers link:
+Though I am not very active on all, in case you are looking for them, these are all linked below:
+
+- [Portfolio Website](https://waleedgeo.github.io/)
+
+- [LinkedIn](https://www.linkedin.com/in/waleedgeo/)
+
+- [Google Scholar](https://scholar.google.com/citations?user=mx4VhG4AAAAJ&hl=en)
+
+- [ORCID](https://orcid.org/0000-0003-0006-2490)
+
+- [ResearchGate](https://www.researchgate.net/profile/Mirza-Waleed)
+
+- [Twitter](https://twitter.com/mwaleedgeo)
+
+- [Github](https://github.com/waleedgeo)
+
+- [Facebook](https://web.facebook.com/mwaleedgeo/)
+
+
