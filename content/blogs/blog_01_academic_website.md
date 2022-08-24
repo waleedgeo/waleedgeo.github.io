@@ -1,6 +1,6 @@
-# How to ceate your website using Hugo & Github Pages
-
-
+---
+title: "How to ceate your website using Hugo & Github Pages"
+---
 **by Mirza Waleed (24-08-2022)**
 
 In this post, I will share how I made [My Portfolio/Bloging Website](waleedgeo.github.io/) using [Github Pages](https://pages.github.com/) and [Hugo](https://gohugo.io/).
