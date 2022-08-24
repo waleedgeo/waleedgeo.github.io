@@ -5,15 +5,18 @@
     <link>https://waleedgeo.github.io/blogs.html</link>
     <description>Recent content in Blogs on Mirza Waleed</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 18 Aug 2022 14:47:42 +0500</lastBuildDate><atom:link href="https://waleedgeo.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://waleedgeo.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Academic Website using Github &amp; Hugo</title>
+      <title>How to ceate your website using Hugo &amp; Github Pages</title>
       <link>https://waleedgeo.github.io/blogs/blog_01_academic_website.html</link>
-      <pubDate>Thu, 18 Aug 2022 14:47:42 +0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://waleedgeo.github.io/blogs/blog_01_academic_website.html</guid>
-      <description></description>
+      <description>How to ceate your website using Hugo &amp;amp; Github Pages In this post, I will share how I made My website using Github Pages and Hugo.
+Originally, i get inspired from this twitter thread and started preparing my website from scratch.
+For better understanding of whole process install following:
+Install VS Code Installl Hugo Create a Github account Install github extension in VS code and login to your github
+Install Hugo by following this guide Check if Hugo is installed by</description>
     </item>
     
   </channel>
