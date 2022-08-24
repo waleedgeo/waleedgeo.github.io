@@ -19,19 +19,6 @@ Besides, I&amp;rsquo;m a (5 star rated &amp;amp; Level-1) freelancer at Fiverr a
     
     <item>
       <title></title>
-      <link>https://waleedgeo.github.io/blogs/blog_01_academic_website.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://waleedgeo.github.io/blogs/blog_01_academic_website.html</guid>
-      <description>How to ceate your website using Hugo &amp;amp; Github Pages by Mirza Waleed (24-08-2022)
-In this post, I will share how I made My Portfolio/Bloging Website using Github Pages and Hugo.
-Originally, i get inspired from this twitter thread and started preparing my website from scratch.
-For better understanding of whole process install following:
-Install VS Code Installl Hugo Create a Github account Install github extension in VS code and login to your github</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://waleedgeo.github.io/projects/proj_02_utfvi.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -49,6 +36,20 @@ Install VS Code Installl Hugo Create a Github account Install github extension i
 Multi-Temporal Resilience Evaluation in Pakistan (Ongoing - 2022)
 Warming Cities in Pakistan: Evaluating Spatial-temporal Dynamics of Urban Thermal Field Variance Index under Rapid Urbanization (Ongoing - 2022)
 Submitted Papers Exploring and Predicting Thermal Field Variance in Response to Urban Growth: A Geo-information Modelling-based Spatial-temporal Assessment in the Context of Sustainable and Livable Cities (Submitted as First Author, 2022 - Egyptian Journal of Remote Sensing &amp;amp; Space Science)</description>
+    </item>
+    
+    <item>
+      <title>How to ceate your website using Hugo &amp; Github Pages</title>
+      <link>https://waleedgeo.github.io/blogs/blog_01_academic_website.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://waleedgeo.github.io/blogs/blog_01_academic_website.html</guid>
+      <description>by Mirza Waleed (24-08-2022)
+In this post, I will share how I made My Portfolio/Bloging Website using Github Pages and Hugo.
+Originally, i get inspired from this twitter thread and started preparing my website from scratch.
+For better understanding of whole process install following:
+Install VS Code Installl Hugo Create a Github account Install github extension in VS code and login to your github
+Install Hugo by following this guide Then check if Hugo is installed by</description>
     </item>
     
   </channel>
