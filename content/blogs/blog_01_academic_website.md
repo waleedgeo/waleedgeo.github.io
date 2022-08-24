@@ -1,9 +1,9 @@
----
-title: "How to ceate your website using Hugo & Github Pages"
----
-
 # How to ceate your website using Hugo & Github Pages
-In this post, I will share how I made [My website](waleedgeo.github.io/) using [Github Pages](https://pages.github.com/) and [Hugo](https://gohugo.io/).
+
+
+**by Mirza Waleed (24-08-2022)**
+
+In this post, I will share how I made [My Portfolio/Bloging Website](waleedgeo.github.io/) using [Github Pages](https://pages.github.com/) and [Hugo](https://gohugo.io/).
 
 Originally, i get inspired from  [this twitter thread](https://mobile.twitter.com/neubadah/status/1558502846265442304) and started preparing [my website](waleedgeo.github.io) from scratch.
 
@@ -18,7 +18,8 @@ Install github extension in VS code and login to your github
 ![github](https://imgur.com/wvNn0QI.png)
 
 Install Hugo by following [this guide ](https://gohugo.io/getting-started/quick-start/)
-Check if Hugo is installed by
+
+Then check if Hugo is installed by
 
 ```
 hugo version
@@ -144,6 +145,8 @@ Other resources
 - https://www.youtube.com/watch?v=jUPW2unCJEE
 - https://www.youtube.com/watch?v=mEZ1Hj5yQ-8
 
+
 ---
+If you still have questions, feel free to reach me through my [mail](mailto:waleedgeo@outlook.com) or [LinkedIn](https://www.linkedin.com/in/waleedgeo/).
 
-
+---
