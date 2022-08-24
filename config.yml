@@ -81,7 +81,7 @@ params:
     - name: github
       url: "https://github.com/waleedgeo"
     - name: facebook
-      url: "https://www.facebook.com/waleedgeo"
+      url: "https://www.facebook.com/mwaleedgeo"
 
   analytics:
     google:
