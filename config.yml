@@ -44,7 +44,7 @@ params:
 
   label:
     text: "Home" # this is main title
-    icon: "images/img2.png"
+    icon: "https://imgur.com/MBnm8gU.png"
     iconHeight: 30
 
   # profile-mode
@@ -53,7 +53,7 @@ params:
     title: "[Mirza Waleed](mailto:waleedgeo@outlook.com)"
     subtitle: "PhD Student👨‍🔬🎓| Geography🌍| Remote Sensing🛰️|
 | Hazard-Risk Analysis🌊| Google Earth Engine💻| Climate Change🌡️| Land-use🌆"
-    imageUrl: "images/img1.jpg"
+    imageUrl: "https://imgur.com/EPUpY7x.png"
     imageWidth: 240
     imageHeight: 240
     imageTitle: "Waleed"

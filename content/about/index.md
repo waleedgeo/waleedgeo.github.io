@@ -4,7 +4,7 @@
 
 My research interest includes: Geographic Information Science (GIS), Remote Sensing, and Environmental Modeling. More specifically, I am interested in applying geospatial techniques, machine learning, and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) in Hazards-Risk assessment, Environmental Change Monitoring, Floods Mapping & Automation, Land-use science, UTFVI (Urban Heat Island effect), and climate change.
 
-![Fiverr Profile](images/img3.png)
+![Fiverr Profile](https://imgur.com/fx2QxsE.png)
 
 Besides, I'm a (5 star rated & Level-1) freelancer at [Fiverr](https://www.fiverr.com/waleed_gis) and provides Google Earth Engine based consultancy services. I have ~4 years of experience in geospatial domain, and have worked on more then 100 projects on remote sensing, GEE, and Geospatial science.
 
