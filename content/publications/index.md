@@ -50,7 +50,7 @@
 
   
 
-- _**Waleed, M.**, & Sajjad, M. (2022). Leveraging cloud-based computing and spatial modeling approaches for land surface temperature disparities in response to land cover change: Evidence from Pakistan. Remote Sensing Applications: Society and Environment, 25, 100665._ **[DOI](https://doi.org/10.1016/j.rsase.2021.100665) - [PDF](https://drive.google.com/file/d/128hOuAnUOjdUXwK4rCgRpyc_N69e1EkB/view?usp=sharing)**
+- _**Waleed, M.**, & Sajjad, M. (2022). Leveraging cloud-based computing and spatial modeling approaches for land surface temperature disparities in response to land cover change: Evidence from Pakistan. Remote Sensing Applications: Society and Environment, 25, 100665._ **[DOI](https://doi.org/10.1016/j.rsase.2021.100665) - [PDF](https://drive.google.com/file/d/1NdboQDsM9N6YIJ228NvRvxsPBRTOQi3X/view?usp=sharing)**
 
   
 
