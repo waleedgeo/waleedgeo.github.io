@@ -62,6 +62,8 @@ params:
         url: about
       - name: CV
         url: https://docs.google.com/document/d/13GLP07Pf3v0wtLR_83CMhWWtQDfs1dA_/edit?usp=sharing&ouid=109721459328499548106&rtpof=true&sd=true
+      - name: Waleedgeo@outlook.com
+        url: mailto:waleedgeo@outlook.com
   # home-info mode
   homeInfoParams:
     Title: "Welcome! \U0001F44B"
@@ -69,8 +71,6 @@ params:
     [Department of Grography](https://geog.hkbu.edu.hk/), [Hong Hong Baptist University](https://www.hkbu.edu.hk/)."
 
   socialIcons:
-    - name: outlook
-      url: "mailto:waleedgeo@outlook.com"
     - name: googlescholar
       url: "https://scholar.google.com/citations?user=mx4VhG4AAAAJ&hl=en"
     - name: linkedIn
