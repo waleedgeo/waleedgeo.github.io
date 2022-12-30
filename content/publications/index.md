@@ -1,32 +1,23 @@
 ## Current Working Papers
 
   
+- _A Review on Cloud computing applications in disaster risk assessment_ **(Ongoing - 2022-23)**
 
-- _Earth observation for Flood Risk Assessment_ **(Ongoing - 2022)**
-
+- _Earth observation for Flood Risk Assessment_ **(Ongoing - 2022-23)**
   
 
-- _Multi-Temporal Resilience Evaluation in  Pakistan_ **(Ongoing - 2022)**
-
-  
-
-- _Warming Cities in Pakistan: Evaluating Spatial-temporal Dynamics of Urban Thermal Field Variance Index under Rapid Urbanization_ **(Ongoing - 2022)**
-
-  
+- _Multi-Temporal Resilience Evaluation in  Pakistan_ **(Ongoing - 2022)**  
 
 ## Submitted Papers
 
-  
 
-- _Exploring and Predicting Thermal Field Variance in Response to Urban Growth: A Geo-information Modelling-based Spatial-temporal Assessment in the Context of Sustainable and Livable Cities_ **(Submitted as First Author, 2022 - Egyptian Journal of Remote Sensing & Space Science)**
+- _Warming Cities in Pakistan: Evaluating Spatial-temporal Dynamics of Urban Thermal Field Variance Index under Rapid Urbanization_ **(Book Chapter in Springer - 2022)**
+
+- _Exploring and Predicting Thermal Field Variance in Response to Urban Growth: A Geo-information Modelling-based Spatial-temporal Assessment in the Context of Sustainable and Livable Cities_ **(Submitted as First Author, 2022 - Sustainability)**
 
   
 
 - _Machine learning-based spatial-temporal assessment and change transition analysis of wetlands: An application of Google Earth Engine in Sylhet, Bangladesh (1985-2022)_ **(Submitted as First Author, 2022 - Ecological Informatics)**
-
-  
-
-- _Leveraging Machine Learning for Sustainable Wetland Management: Long-term Spatio-temporal Wetland Changes in Pakistan for National RAMSAR inventory_ **(Submitted, 2022 - Applied Geography)**
 
   
 
@@ -37,7 +28,9 @@
 ## Published
 
   
+### _2023_
 
+- _Shafi A., Chen S., **Waleed M.**, and Sajjad M. (2023). Leveraging machine learning and remote sensing to monitor long-term spatial-temporal wetland changes: Towards a national RAMSAR inventory in Pakistan, Applied Geography, Volume 151, 2023, 102868, ISSN 0143-6228._ **[DOI](https://doi.org/10.1016/j.apgeog.2022.102868) - [PDF](https://drive.google.com/file/d/1-DQrCFtNTVIknUFz9TFUCmDApT1nwSRn/view?usp=share_link)**
 ### _2022_
 
   
