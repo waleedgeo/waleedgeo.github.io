@@ -19,19 +19,10 @@ I have been working in the Remote Sensing domain for the last five years focusin
     
     <item>
       <title></title>
-      <link>https://waleedgeo.github.io/projects/proj_02_utfvi.html</link>
+      <link>https://waleedgeo.github.io/projects.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://waleedgeo.github.io/projects/proj_02_utfvi.html</guid>
-      <description>Under progress&amp;hellip; </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://waleedgeo.github.io/publications.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://waleedgeo.github.io/publications.html</guid>
+      <guid>https://waleedgeo.github.io/projects.html</guid>
       <description>Current Working Papers A Review on Cloud computing applications in disaster risk assessment (Ongoing - 2022-23)
 Earth observation for Flood Risk Assessment (Ongoing - 2022-23)
 Multi-Temporal Resilience Evaluation in Pakistan (Ongoing - 2022)
@@ -40,17 +31,12 @@ Exploring and Predicting Thermal Field Variance in Response to Urban Growth: A G
     </item>
     
     <item>
-      <title>How to ceate your website using Hugo &amp; Github Pages</title>
-      <link>https://waleedgeo.github.io/blogs/blog_01_academic_website.html</link>
+      <title></title>
+      <link>https://waleedgeo.github.io/publications.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://waleedgeo.github.io/blogs/blog_01_academic_website.html</guid>
-      <description>by Mirza Waleed (24-08-2022)
-In this post, I will share how I made My Portfolio/Bloging Website using Github Pages and Hugo.
-Originally, i get inspired from this twitter thread and started preparing my website from scratch.
-For better understanding of whole process install following:
-Install VS Code Installl Hugo Create a Github account Install github extension in VS code and login to your github
-Install Hugo by following this guide Then check if Hugo is installed by</description>
+      <guid>https://waleedgeo.github.io/publications.html</guid>
+      <description>Ongoing and Submitted work Published 2023 Shafi A., Chen S., Waleed M., and Sajjad M. (2023). Leveraging machine learning and remote sensing to monitor long-term spatial-temporal wetland changes: Towards a national RAMSAR inventory in Pakistan, Applied Geography, Volume 151, 2023, 102868, ISSN 0143-6228. DOI - PDF 2022 Waleed, M., Mubeen, M., Ahmad, A., Habib-ur-Rahman, M., Amin, A., Farid, H. U., &amp;hellip; &amp;amp; El Sabagh, A. (2022). Evaluating the efficiency of coarser to finer resolution multispectral satellites in mapping paddy rice fields using GEE implementation.</description>
     </item>
     
   </channel>
