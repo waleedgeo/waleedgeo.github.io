@@ -31,13 +31,12 @@
 
 ### _2023_
 
-
-![AG](https://imgur.com/OjTdxgB.jpg)
+[![AG](https://imgur.com/fa0jQK6.jpg)](https://doi.org/10.1016/j.apgeog.2022.102868)
 - _Shafi A., Chen S., **Waleed M.**, and Sajjad M. (2023). Leveraging machine learning and remote sensing to monitor long-term spatial-temporal wetland changes: Towards a national RAMSAR inventory in Pakistan, Applied Geography, Volume 151, 2023, 102868, ISSN 0143-6228._ **[DOI](https://doi.org/10.1016/j.apgeog.2022.102868) - [PDF](https://drive.google.com/file/d/1-DQrCFtNTVIknUFz9TFUCmDApT1nwSRn/view?usp=share_link)**
 ### _2022_
 
-  
 
+[![Nature Report](https://imgur.com/iHZbEOb.jpg)](https://doi.org/10.1038/s41598-022-17454-y)
 - _**Waleed, M.**, Mubeen, M., Ahmad, A., Habib-ur-Rahman, M., Amin, A., Farid, H. U., ... & El Sabagh, A. (2022). Evaluating the efficiency of coarser to finer resolution multispectral satellites in mapping paddy rice fields using GEE implementation. Scientific Reports, 12(1), 1-15._ **[DOI](https://doi.org/10.1038/s41598-022-17454-y) - [PDF](https://drive.google.com/file/d/13SkdnrBA3UEyNbSb9aNEaDUeV4PTViCP/view?usp=sharing)**
 
   
