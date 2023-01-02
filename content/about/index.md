@@ -7,6 +7,7 @@
 I am currently enrolled in a fully funded PhD position at [HKBU, HK](https://geog.hkbu.edu.hk/postgraduate/research_students/). I completed my bachelor in Environmental Sciences from COMSATS University Islamabad with Remote Sensing and GIS as my major and received an A+ grade in my [final year research project and thesis](https://doi.org/10.1038/s41598-022-17454-y).
 
 I have been working in the Remote Sensing domain for the last five years focusing on Google Earth Engine, Geospatial Data Science, and Machine/Deep Learning. My research interests include but are not limited to:
+
 - Application of Remote Sensing in Disaster Management and Risk Assessment.
 
 - Flood Risk Assessment, Mapping, Susceptibility, and Damage Assessment.
@@ -15,10 +16,8 @@ I have been working in the Remote Sensing domain for the last five years focusin
 
 - Applications of Google Earth Engine
 
-```
-Note:
-My current research focus is towards regional to global scale studies addressing flood risk assessment using earth observation data/techniques. Additionally I am also interested in the applications of Google Earth Engine for Disaster Managemetn. For this I am working as well as open to any collaboration opportunity.
-```
+### **Note:**
+**Available for collaborative research in above domains!**
 ### Consultancy Services
 
 Besides, I'm a (5 star rated & Level-1) freelancer at [Fiverr](https://www.fiverr.com/waleed_gis) and provides Google Earth Engine based consultancy services. I have ~4 years of experience in geospatial domain, and have worked on more then 100 projects on remote sensing, GEE, and Geospatial science.
@@ -47,14 +46,13 @@ Besides, I'm a (5 star rated & Level-1) freelancer at [Fiverr](https://www.fiver
 - Environmental Modelling/Prediction: [TerrSet](https://clarklabs.org/terrset/) | [FLUS](https://www.geosimulation.cn/FLUS.html)
 
 ### My Hobbies
-
-- Science fiction reading📖🔭
+![](https://imgur.com/wvOUsse.png)
 
 - Guitarist🎸🎧
 
-- Running🏃‍♂️Gym🏋️‍♂️
+- Running🏃‍♂️  Gym🏋️‍♂️
 
-- Chess♟️Table Tennis🏓Football⚽ 
+- Chess♟️Table Tennis🏓Football⚽
 
 ---
 
