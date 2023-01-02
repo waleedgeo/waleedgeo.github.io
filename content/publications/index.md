@@ -32,7 +32,7 @@
 ### _2023_
 
 
-![AG](https://imgur.com/JcC60M4.jpg)
+![AG](https://imgur.com/OjTdxgB.jpg)
 - _Shafi A., Chen S., **Waleed M.**, and Sajjad M. (2023). Leveraging machine learning and remote sensing to monitor long-term spatial-temporal wetland changes: Towards a national RAMSAR inventory in Pakistan, Applied Geography, Volume 151, 2023, 102868, ISSN 0143-6228._ **[DOI](https://doi.org/10.1016/j.apgeog.2022.102868) - [PDF](https://drive.google.com/file/d/1-DQrCFtNTVIknUFz9TFUCmDApT1nwSRn/view?usp=share_link)**
 ### _2022_
 
