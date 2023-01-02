@@ -117,6 +117,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: achievements
+      name: Achievements
+      url: /achievements
+      weight: 4
     - identifier: about
       name: About
       url: /about
