@@ -58,11 +58,11 @@ params:
     imageHeight: 240
     imageTitle: "Waleed"
     buttons:
-      - name: About
-        url: about
+      - name: Publications
+        url: publications
       - name: CV
         url: https://docs.google.com/document/d/13GLP07Pf3v0wtLR_83CMhWWtQDfs1dA_/edit?usp=sharing&ouid=109721459328499548106&rtpof=true&sd=true
-      - name: Waleedgeo@outlook.com
+      - name: Email
         url: mailto:waleedgeo@outlook.com
   # home-info mode
   homeInfoParams:
