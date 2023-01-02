@@ -35,7 +35,7 @@ Besides, I'm a (5 star rated & Level-1) freelancer at [Fiverr](https://www.fiver
 **_"Tell me and I forget. Teach me and I remember. Involve me and I learn."_** Benjamin Franklin
 
 ### My Tools
-
+![Tools](https://imgur.com/l0nnrix.png)
 - GIS Softwares: [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [QGIS](https://qgis.org/en/site/) 
 
 - Cloud Computing & Big Data: [Google Earth Engine](https://earthengine.google.com/)
