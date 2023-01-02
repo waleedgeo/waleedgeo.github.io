@@ -1,38 +1,15 @@
-## Current Working Papers
-
-  
-- _A Review on Cloud computing applications in disaster risk assessment_ **(Ongoing - 2022-23)**
-
-- _Earth observation for Flood Risk Assessment_ **(Ongoing - 2022-23)**
-  
-
-- _Multi-Temporal Resilience Evaluation in  Pakistan_ **(Ongoing - 2022)**  
-
-## Submitted Papers
-
-
-- _Warming Cities in Pakistan: Evaluating Spatial-temporal Dynamics of Urban Thermal Field Variance Index under Rapid Urbanization_ **(Book Chapter in Springer - 2022)**
-
-- _Exploring and Predicting Thermal Field Variance in Response to Urban Growth: A Geo-information Modelling-based Spatial-temporal Assessment in the Context of Sustainable and Livable Cities_ **(Submitted as First Author, 2022 - Sustainability)**
-
-  
-
-- _Machine learning-based spatial-temporal assessment and change transition analysis of wetlands: An application of Google Earth Engine in Sylhet, Bangladesh (1985-2022)_ **(Submitted as First Author, 2022 - Ecological Informatics)**
-
-  
-
----
-
-  
-
+### [Ongoing and Submitted work](https://waleedgeo.github.io/projects)
 ## Published
 
-
-
+---
 ### _2023_
+
 
 [![AG](https://imgur.com/fa0jQK6.png)](https://doi.org/10.1016/j.apgeog.2022.102868)
 - _Shafi A., Chen S., **Waleed M.**, and Sajjad M. (2023). Leveraging machine learning and remote sensing to monitor long-term spatial-temporal wetland changes: Towards a national RAMSAR inventory in Pakistan, Applied Geography, Volume 151, 2023, 102868, ISSN 0143-6228._ **[DOI](https://doi.org/10.1016/j.apgeog.2022.102868) - [PDF](https://drive.google.com/file/d/1-DQrCFtNTVIknUFz9TFUCmDApT1nwSRn/view?usp=share_link)**
+
+---
+
 ### _2022_
 
 
@@ -58,9 +35,11 @@
 [![Springer](https://imgur.com/uHciCuc.png)](https://doi.org/10.1007/978-3-030-79408-8_13)
 - _Balal, R. M., Shahid, M. A., Khan, N., Sarkhosh, A., Zubair, M., Rasool, A., **Waleed, M.**, ... & Nasim, W. (2022). Morphological, Physiological, and Biochemical Modulations in Crops under Salt Stress. In Building Climate Resilience in Agriculture (pp. 195-210). Springer, Cham._ **[DOI](https://doi.org/10.1007/978-3-030-79408-8_13) - [PDF](https://drive.google.com/file/d/13IDGOOF8GWoKEtgwL3p-X8-wLEdDket0/view?usp=sharing)**
 
-  
+---  
 
 ### _2021_
 
 [![T&F](https://imgur.com/AcHBbzi.png)](https://doi.org/10.1201/9781003160717-4)
 - _Sabagh, A. E., Islam, M. S., Iqbal, M. A., Hossain, A., Mubeen, M., Jabeen, T., **Waleed, M.**, ... & Fahad, S. (2021). Salinity Stress in Cotton: Adverse Effects, Survival Mechanisms and Management Strategies. In Engineering Tolerance in Crop Plants Against Abiotic Stress (pp. 59-80). CRC Press._ **[DOI](https://doi.org/10.1201/9781003160717-4) - [PDF](https://drive.google.com/file/d/12Pvl1ywdKCe85a-kaishBkeJdGAlrfLL/view?usp=sharing)**
+
+---

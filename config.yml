@@ -120,10 +120,6 @@ menu:
     - identifier: about
       name: About
       url: /about
-      weight: 4
-    - identifier: blogs
-      name: Blogs
-      url: /blogs
       weight: 3
     - identifier: projects
       name: Projects
