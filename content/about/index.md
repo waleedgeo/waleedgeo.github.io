@@ -2,7 +2,7 @@
 
 **PhD student (Geography) at the [Department of Geography](https://geog.hkbu.edu.hk/), [Hong Kong Baptist University , Hong Kong (SAR).](https://www.hkbu.edu.hk/)**
 
-[![Waleed Mirza](https://imgur.com/poBxB1s.png)](https://geog.hkbu.edu.hk/postgraduate/research_students/)
+[![Waleed Mirza](https://imgur.com/7xdPAEA.png)](https://geog.hkbu.edu.hk/postgraduate/research_students/)
 
 I am currently enrolled in a fully funded PhD position at [HKBU, HK](https://geog.hkbu.edu.hk/postgraduate/research_students/). I completed my bachelor in Environmental Sciences from COMSATS University Islamabad with Remote Sensing and GIS as my major and received an A+ grade in my [final year research project and thesis](https://doi.org/10.1038/s41598-022-17454-y).
 
@@ -22,7 +22,7 @@ I have been working in the Remote Sensing domain for the last five years focusin
 
 Besides, I'm a (5 star rated & Level-1) freelancer at [Fiverr](https://www.fiverr.com/waleed_gis) and provides Google Earth Engine based consultancy services. I have ~4 years of experience in geospatial domain, and have worked on more then 100 projects on remote sensing, GEE, and Geospatial science.
 
-[![Fiverr Profile](https://imgur.com/fx2QxsE.png)](https://www.fiverr.com/waleed_gis)
+[![Fiverr Profile](https://imgur.com/cRkHGoI.png)](https://www.fiverr.com/waleed_gis)
 
 
 
@@ -34,7 +34,7 @@ Besides, I'm a (5 star rated & Level-1) freelancer at [Fiverr](https://www.fiver
 **_"Tell me and I forget. Teach me and I remember. Involve me and I learn."_** Benjamin Franklin
 
 ### My Tools
-![Tools](https://imgur.com/l0nnrix.png)
+![Tools](https://imgur.com/FSvgfQU.png)
 - GIS Softwares: [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [QGIS](https://qgis.org/en/site/) 
 
 - Cloud Computing & Big Data: [Google Earth Engine](https://earthengine.google.com/)
