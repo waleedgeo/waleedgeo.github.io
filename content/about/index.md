@@ -2,7 +2,7 @@
 
 **PhD student (Geography) at the [Department of Geography](https://geog.hkbu.edu.hk/), [Hong Kong Baptist University , Hong Kong (SAR).](https://www.hkbu.edu.hk/)**
 
-[![Waleed Mirza](https://imgur.com/bQXO6H3.png)](https://geog.hkbu.edu.hk/postgraduate/research_students/)
+[![Waleed Mirza](https://imgur.com/poBxB1s.png)](https://geog.hkbu.edu.hk/postgraduate/research_students/)
 
 I am currently enrolled in a fully funded PhD position at [HKBU, HK](https://geog.hkbu.edu.hk/postgraduate/research_students/). I completed my bachelor in Environmental Sciences from COMSATS University Islamabad with Remote Sensing and GIS as my major and received an A+ grade in my [final year research project and thesis](https://doi.org/10.1038/s41598-022-17454-y).
 
