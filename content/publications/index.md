@@ -4,6 +4,8 @@
 ---
 ### _2023_
 
+[![SU](https://i.imgur.com/9U5pKD4.png)](https://www.mdpi.com/2071-1050/15/2/1416)
+- **Waleed M.**, Sajjad M., Anthony O.A., and Alam Md. T. (2023). _Towards Sustainable and Livable Cities: Leveraging Remote Sensing, Machine Learning, and Geo-Information Modelling to Explore and Predict Thermal Field Variance in Response to Urban Growth._ **[DOI](https://www.mdpi.com/2071-1050/15/2/1416) - [PDF](https://www.mdpi.com/2071-1050/15/2/1416/pdf)**
 
 [![AG](https://imgur.com/fa0jQK6.png)](https://doi.org/10.1016/j.apgeog.2022.102868)
 - _Shafi A., Chen S., **Waleed M.**, and Sajjad M. (2023). Leveraging machine learning and remote sensing to monitor long-term spatial-temporal wetland changes: Towards a national RAMSAR inventory in Pakistan, Applied Geography, Volume 151, 2023, 102868, ISSN 0143-6228._ **[DOI](https://doi.org/10.1016/j.apgeog.2022.102868) - [PDF](https://drive.google.com/file/d/1-DQrCFtNTVIknUFz9TFUCmDApT1nwSRn/view?usp=share_link)**

@@ -1,4 +1,4 @@
-# Mirza Waleed 🙂
+# Mirza Waleed
 
 **PhD student (Geography) at the [Department of Geography](https://geog.hkbu.edu.hk/), [Hong Kong Baptist University , Hong Kong (SAR).](https://www.hkbu.edu.hk/)**
 
@@ -44,15 +44,6 @@ Besides, I'm a (5 star rated & Level-1) freelancer at [Fiverr](https://www.fiver
 - Statistics & Visualizations: [MiniTab](https://www.minitab.com/en-us/) | [PowerBI](https://powerbi.microsoft.com/en-au/) | [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | [Excel](https://www.microsoft.com/en-ww/microsoft-365/excel)
 
 - Environmental Modelling/Prediction: [TerrSet](https://clarklabs.org/terrset/) | [FLUS](https://www.geosimulation.cn/FLUS.html)
-
-### My Hobbies
-![Me :)](https://imgur.com/LvvBrlH.png)
-
-- Guitarist🎸🎧
-
-- Running🏃‍♂️  Gym🏋️‍♂️
-
-- Chess♟️Table Tennis🏓Football⚽
 
 ---
 

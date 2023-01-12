@@ -1,6 +1,10 @@
 
 # 2023
 
+**Paper published being first author in Sustainability-MDPI**
+
+[![AG](https://i.imgur.com/9U5pKD4.png)](https://www.mdpi.com/2071-1050/15/2/1416)
+
 **Co-authored Paper published in Applied Geography**
 
 [![AG](https://imgur.com/fa0jQK6.png)](https://doi.org/10.1016/j.apgeog.2022.102868)
